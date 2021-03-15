@@ -3,6 +3,7 @@
 # Crear animaciones para las cartas
 # Expandir el tipo de variables que pueden manejar las animaciones
 # Estabilizar las animaciones con FPS fijo
+# Hello its me
 
 import pygame
 import pygame_widgets
