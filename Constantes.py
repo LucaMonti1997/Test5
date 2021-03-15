@@ -17,14 +17,14 @@ COLORES = (BLANCO, NEGRO, ROJO, VERDE, VERDE_CLARO, AZUL, AZUL_CLARO)
 WIDTH, HEIGHT = 1200, 700
 
 # RUTAS ASSETS
-ESPADA1 = '../../../Assets/TestAssets/Espada1.png'
-LADRILLO1 = '../../../Assets/TestAssets/Ladrillo1.png'
-TORRE1 = '../../../Assets/TestAssets/Torre1.png'
-TORRE2 = '../../../Assets/TestAssets/Torre2.png'
-TORRESENCILLA1 = '../../../Assets/TestAssets/Castillo1/TorreSencilla1.png'
-TORRESENCILLA2 = '../../../Assets/TestAssets/Castillo1/TorreSencilla2.png'
-MURALLA1 = '../../../Assets/TestAssets/Castillo1/Muralla1.png'
-MURALLA2 = '../../../Assets/TestAssets/Castillo1/Muralla2.png'
+ESPADA1 = 'Assets/TestAssets/Espada1.png'
+LADRILLO1 = 'Assets/TestAssets/Ladrillo1.png'
+TORRE1 = 'Assets/TestAssets/Torre1.png'
+TORRE2 = 'Assets/TestAssets/Torre2.png'
+TORRESENCILLA1 = 'Assets/TestAssets/Castillo1/TorreSencilla1.png'
+TORRESENCILLA2 = 'Assets/TestAssets/Castillo1/TorreSencilla2.png'
+MURALLA1 = 'Assets/TestAssets/Castillo1/Muralla1.png'
+MURALLA2 = 'Assets/TestAssets/Castillo1/Muralla2.png'
 
 # FONTS
 pygame.font.init()
